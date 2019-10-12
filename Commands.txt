@@ -1,0 +1,10 @@
+Commands to install java
+sudo apt install default-jre            
+sudo apt install openjdk-11-jre-headless
+sudo apt install openjdk-8-jre-headless 
+
+
+Commands to install mysql
+sudo apt install mysql-client-core-5.7   
+sudo apt install mariadb-client-core-10.1
+
